@@ -74,20 +74,6 @@ xᵢ ≥ 0          (Não-negatividade)
 
 ##  Como Executar o Código
 
-### **Opção 1: Google Colab (Recomendado - Mais Rápido)**
-
-1. Acesse: [Google Colab](https://colab.research.google.com/)
-2. Clique em **"Novo notebook"**
-3. Cole o código completo do arquivo `simplex_racao.py` na célula
-4. Clique no botão ** (Play)** ou pressione `Shift + Enter`
-5. Aguarde a execução e veja os resultados!
-
-** Vantagem:** Não precisa instalar nada no computador.
-
----
-
-### **Opção 2: Executar Localmente (Python)**
-
 #### Pré-requisitos
 
 - Python 3.7 ou superior
